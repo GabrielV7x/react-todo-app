@@ -4,8 +4,6 @@ import ListSelector from "./components/ListSelector";
 import EditListTitle from "./components/EditListTitle";
 import TodoList from "./components/TodoList";
 
-// test
-
 const initialLists = [
   {
     id: 1,
